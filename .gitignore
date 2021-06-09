@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/design-pattern.iml
+/.idea/
